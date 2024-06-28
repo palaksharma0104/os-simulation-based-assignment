@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h> // for rand() and srand()
-#include <time.h>   // for seeding the random number generator
+#include <time.h>  // for seeding the random number generator
 
 struct Process
 {
